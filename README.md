@@ -2,16 +2,21 @@
 中文圣经MP3音频库
 
 # 免责声明
-本项目原始音频素材收集与互联网公开数据。尊重原始素材版权所有者权益，遵循《千禧年数字版权法》 [（DMCA）](Digital-Millennium-Copyright-Act.pdf)。欢迎主内弟兄姊妹依法使用。
+本项目原始音频素材收集与互联网公开数据。
+
+尊重原始素材版权所有者权益，遵循《千禧年数字版权法》 [（DMCA）](Digital-Millennium-Copyright-Act.pdf)。
+
+欢迎主内弟兄姊妹依法使用。
+
 原始素材版权所有者如有异议，自声明邮件收到起48小时内删除相关内容。
 联系人邮箱：t@resurgo.cn
 
-# 协议
-# license
+# 协议 （license）
 
 This work is licensed under the Apache License, Version 2.0 [(the "License")](http://www.apache.org/licenses/LICENSE-2.0).
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 
