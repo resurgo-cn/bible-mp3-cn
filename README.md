@@ -20,7 +20,7 @@ This work is licensed under the Apache License, Version 2.0 [(the "License")](ht
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 
-   Copyright xutong
+   Copyright XuTong
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
